@@ -1,4 +1,5 @@
-### Hi there 👋
+hola mi nombre es jesus daniel soriano chavez
+actualmente estoy estudiando el curso de fundamentos en programcion web
 
 <!--
 **JesusDaniel123/JesusDaniel123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
